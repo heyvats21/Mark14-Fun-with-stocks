@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: #6FEDD6;
+    
+}
+
+h2{
+    font-size: 3rem;
+}
+/* labels */
+label{
+    display: block;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+input{
+    width: 30vh;
+    font-size: large;
+    margin-left:1rem;
+    border-radius: 0.5rem;
+}
+
+
+
+button{
+    background-color: #7DCE13;
+    font-size: large;
+    margin-top: 1rem;
+    font-weight: bold;
+    border-radius: 0.8rem;
+}
+div{
+    font-size: 2rem;
+    font-style:italic;
+    font-weight: bold;
+    padding-top: 1rem;
+}
